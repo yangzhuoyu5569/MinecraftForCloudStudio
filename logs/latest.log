@@ -1,0 +1,492 @@
+[11:19:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[11:19:38] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[11:19:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[11:19:38] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2838 for Minecraft 1.12.2 loading
+[11:19:38] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_201, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_201
+[11:19:38] [main/INFO] [FML]: Searching C:\Users\Admin\Desktop\minecraft_server1.12.2\.\mods for mods
+[11:19:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in [R键整理]InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[11:19:38] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:19:38] [main/WARN] [FML]: The coremod me.towdium.jecharacters.core.JechCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:19:38] [main/WARN] [FML]: The coremod JechCore (me.towdium.jecharacters.core.JechCore) is not signed!
+[11:19:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in [更多熔炉前置]cxlibrary-1.12.1-1.6.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[11:19:38] [main/WARN] [FML]: The coremod cubex2.cxlibrary.CoreModLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:19:38] [main/WARN] [FML]: The coremod CXLibraryCore (cubex2.cxlibrary.CoreModLoader) is not signed!
+[11:19:38] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from [更好FPS]BetterFps-1.4.8.jar
+[11:19:38] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from [高清修复]OptiFine_1.12.2_HD_U_E2.jar
+[11:19:38] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from spongeforge-1.12.2-2825-7.1.6-RC3740.jar
+[11:19:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:19:38] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[11:19:38] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[11:19:38] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[11:19:38] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/C:/Users/Admin/Desktop/minecraft_server1.12.2/./mods/spongeforge-1.12.2-2825-7.1.6-RC3740.jar Service=LaunchWrapper Env=SERVER
+[11:19:38] [main/WARN] [FML]: The coremod SpongeCoremod (org.spongepowered.mod.SpongeCoremod) is not signed!
+[11:19:38] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[11:19:38] [main/INFO] [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[DEFAULT]
+[11:19:38] [main/INFO] [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[PREINIT]
+[11:19:38] [main/INFO] [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[INIT]
+[11:19:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:19:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:19:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:19:38] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[11:19:38] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[11:19:38] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[11:19:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:19:39] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[11:19:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:19:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:19:40] [main/INFO] [jecharacters]: Starting generating pattern
+[11:19:40] [main/INFO] [jecharacters]: Starting loading pinyin data
+[11:19:40] [main/INFO] [jecharacters]: Finished loading pinyin data
+[11:19:40] [main/INFO] [jecharacters]: Finished generating pattern
+[11:19:40] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[11:19:40] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@1c758545
+[11:19:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:19:40] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[11:19:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:19:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:19:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:19:41] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[11:19:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:19:41] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[11:19:41] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[11:19:41] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[11:19:41] [main/INFO] [mixin]: A re-entrant transformer 'guichaguri.betterfps.transformers.PatcherTransformer' was detected and will no longer process meta class data
+[11:19:44] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
+[11:19:44] [main/INFO] [mixin]: A re-entrant transformer 'guichaguri.betterfps.transformers.MathTransformer' was detected and will no longer process meta class data
+[11:19:45] [main/WARN] [mixin]: Static binding violation: PRIVATE overwrite method initializeConnectionToPlayer in mixins.common.core.json:server.MixinPlayerList cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[11:19:45] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[11:19:45] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[11:19:46] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
+[11:19:46] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
+[11:19:46] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
+[11:19:47] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
+[11:19:49] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
+[11:19:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[11:19:49] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2838 Initialized
+[11:19:49] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[11:19:49] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[11:19:49] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[11:19:49] [Server thread/INFO] [Sponge]: Found mcmod.info at jar:file:/C:/Users/Admin/Desktop/minecraft_server1.12.2/./mods/spongeforge-1.12.2-2825-7.1.6-RC3740.jar!/mcmod.info
+[11:19:49] [Server thread/INFO] [Sponge]: Creating injector in stage 'PRODUCTION'
+[11:19:52] [Server thread/INFO] [FML]: Searching C:\Users\Admin\Desktop\minecraft_server1.12.2\.\mods for mods
+[11:19:53] [Server thread/WARN] [FML]: Mod realdrops is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.14
+[11:19:53] [Server thread/INFO] [FML]: Disabling mod neat it is client side only.
+[11:19:53] [Server thread/INFO] [FML]: Forge Mod Loader has identified 39 mods to load
+[11:19:53] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[11:19:53] [Server thread/WARN] [FML]: Missing English translation for spongeapi: assets/spongeapi/lang/en_us.lang
+[11:19:53] [Server thread/WARN] [FML]: Missing English translation for spongeforge: assets/spongeforge/lang/en_us.lang
+[11:19:53] [Server thread/WARN] [FML]: Missing English translation for buildcraftbuilders: assets/buildcraftbuilders/lang/en_us.lang
+[11:19:53] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
+[11:19:53] [Server thread/WARN] [FML]: Missing English translation for buildcraftenergy: assets/buildcraftenergy/lang/en_us.lang
+[11:19:53] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
+[11:19:53] [Server thread/WARN] [FML]: Missing English translation for buildcraftlib: assets/buildcraftlib/lang/en_us.lang
+[11:19:53] [Server thread/WARN] [FML]: Missing English translation for buildcraftrobotics: assets/buildcraftrobotics/lang/en_us.lang
+[11:19:53] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
+[11:19:53] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
+[11:19:53] [Server thread/WARN] [FML]: Missing English translation for radixcore: assets/radixcore/lang/en_us.lang
+[11:19:53] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[11:19:54] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
+[11:19:54] [Server thread/WARN] [FML]: Missing English translation for mycommands: assets/mycommands/lang/en_us.lang
+[11:19:54] [Server thread/WARN] [FML]: Missing English translation for instantlava: assets/instantlava/lang/en_us.lang
+[11:19:54] [Server thread/WARN] [FML]: Missing English translation for cxlibrary: assets/cxlibrary/lang/en_us.lang
+[11:19:54] [Server thread/WARN] [FML]: Missing English translation for realdrops: assets/realdrops/lang/en_us.lang
+[11:19:54] [Server thread/WARN] [Sponge]: The mod spongeforge was designed for forge 1.12.2-14.23.5.2825 but version 14.23.5.2838 is in use. It may not work properly.
+[11:19:54] [Server thread/WARN] [Sponge]: The mod spongeforge was designed for forge 1.12.2-14.23.5.2825 but version 14.23.5.2838 is in use. It may not work properly.
+[11:19:54] [Server thread/INFO] [FML]: FML has found a non-mod file [血量显示]Neat 1.4-15.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[11:19:54] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jecharacters, spongeapi, sponge, spongeforge, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, inventorytweaks, mca, radixcore, torcherino, tconstruct, mantle, jei, ic2, appliedenergistics2, mycommands, flammpfeil.slashblade, theoneprobe, journeymap, instantlava, twilightforest, morefurnaces, cxlibrary, lastsmith, botania, erebus, realdrops, extrabotany, baubles] at CLIENT
+[11:19:54] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jecharacters, spongeapi, sponge, spongeforge, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, inventorytweaks, mca, radixcore, torcherino, tconstruct, mantle, jei, ic2, appliedenergistics2, mycommands, flammpfeil.slashblade, theoneprobe, journeymap, instantlava, twilightforest, morefurnaces, cxlibrary, lastsmith, botania, erebus, realdrops, extrabotany, baubles] at SERVER
+[11:19:54] [Server thread/WARN] [Sponge]: There's no certificate fingerprint available
+[11:19:55] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselIntegration; missing dependency: chisel
+[11:19:55] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[11:19:55] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[11:19:55] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse wailaIntegration; missing dependency: waila
+[11:19:55] [Server thread/INFO] [tconstruct]: Preparing to take over the world
+[11:19:56] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[11:19:56] [Server thread/INFO] [FML]: Found 1444 ObjectHolder annotations
+[11:19:56] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[11:19:56] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[11:19:56] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[11:19:56] [Forge Version Check/INFO] [forge.VersionCheck]: [extrabotany] Starting version check at https://raw.github.com/ExtraMeteorP/ExtraBotany/master/extrabotany_update.json
+[11:19:57] [Server thread/INFO] [BuildCraft]: 
+[11:19:57] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.99.19
+[11:19:57] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
+[11:19:57] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[11:19:57] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[11:19:57] [Server thread/INFO] [BuildCraft]:   Branch HEAD
+[11:19:57] [Server thread/INFO] [BuildCraft]:   Commit a133775732fee3526618bc7dba9b007a55454a9e
+[11:19:57] [Server thread/INFO] [BuildCraft]:     Bump version for 7.99.19 release.
+[11:19:57] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[11:19:57] [Server thread/INFO] [BuildCraft]: 
+[11:19:57] [Server thread/INFO] [BuildCraft]: Loaded Modules:
+[11:19:57] [Server thread/INFO] [BuildCraft]:   - lib
+[11:19:57] [Server thread/INFO] [BuildCraft]:   - core
+[11:19:57] [Server thread/INFO] [BuildCraft]:   - builders
+[11:19:57] [Server thread/INFO] [BuildCraft]:   - energy
+[11:19:57] [Server thread/INFO] [BuildCraft]:   - factory
+[11:19:57] [Server thread/INFO] [BuildCraft]:   - robotics
+[11:19:57] [Server thread/INFO] [BuildCraft]:   - silicon
+[11:19:57] [Server thread/INFO] [BuildCraft]:   - transport
+[11:19:57] [Server thread/INFO] [BuildCraft]: Missing Modules:
+[11:19:57] [Server thread/INFO] [BuildCraft]:   - compat
+[11:19:57] [Server thread/INFO] [BuildCraft]: 
+[11:19:57] [Server thread/INFO] [BuildCraft]: [debugger] Not a dev environment!
+[11:19:57] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[11:19:57] [Forge Version Check/INFO] [forge.VersionCheck]: [extrabotany] Found status: AHEAD Target: null
+[11:19:57] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[11:19:57] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[11:19:57] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Starting version check at https://mod-buildcraft.com/version/versions.json
+[11:19:58] [Server thread/WARN] [mca]: MCA is running on a dedicated server and will default to using English as its language.
+[11:19:58] [Server thread/WARN] [mca]: This may cause issues with some phrases being translated while others are not.
+[11:19:58] [Server thread/WARN] [mca]: **** To change your server's language in MCA, change the `serverLanguageId` option in MCA's configuration. ****
+[11:19:58] [Server thread/INFO] [mca]: Loaded language en_us
+[11:19:58] [Server thread/INFO] [twilightforest]: It looks like you have Sponge installed! You may notice Hydras spawning incorrectly with floating heads.
+If so, please update Sponge to resolve this issue. Have fun!
+[11:19:58] [Server thread/INFO] [twilightforest]: twilightforest has loaded compatibility for mod Baubles.
+[11:19:58] [Server thread/INFO] [twilightforest]: twilightforest has skipped compatibility for mod Chisel.
+[11:19:58] [Server thread/INFO] [twilightforest]: twilightforest has skipped compatibility for mod Immersive Engineering.
+[11:19:58] [Server thread/INFO] [twilightforest]: twilightforest has loaded compatibility for mod Just Enough Items.
+[11:19:58] [Server thread/INFO] [twilightforest]: twilightforest has loaded compatibility for mod Tinkers' Construct.
+[11:19:58] [Server thread/INFO] [twilightforest]: twilightforest has skipped compatibility for mod Thaumcraft.
+[11:19:59] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Found status: OUTDATED Target: 7.99.24
+[11:19:59] [Forge Version Check/INFO] [forge.VersionCheck]: [spongeforge] Starting version check at https://files.minecraftforge.net/maven/org/spongepowered/spongeforge/promotions_slim.json
+[11:20:00] [Forge Version Check/INFO] [forge.VersionCheck]: [spongeforge] Found status: OUTDATED Target: 7.1.2
+[11:20:00] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[11:20:00] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: UP_TO_DATE Target: null
+[11:20:00] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Starting version check at https://mod-buildcraft.com/version/versions.json
+[11:20:00] [Server thread/WARN] [Sponge]: Could not find type owning class, assigning fallback id: ic2:block_ore_type
+[11:20:00] [Server thread/WARN] [Sponge]: Could not find type owning class, assigning fallback id: ic2:block_scaffold_type
+[11:20:00] [Server thread/WARN] [Sponge]: Could not find east owning class, assigning fallback id: ic2:block_i_c2_fence_east
+[11:20:00] [Server thread/WARN] [Sponge]: Could not find north owning class, assigning fallback id: ic2:block_i_c2_fence_north
+[11:20:00] [Server thread/WARN] [Sponge]: Could not find south owning class, assigning fallback id: ic2:block_i_c2_fence_south
+[11:20:00] [Server thread/WARN] [Sponge]: Could not find type owning class, assigning fallback id: ic2:block_i_c2_fence_type
+[11:20:00] [Server thread/WARN] [Sponge]: Could not find west owning class, assigning fallback id: ic2:block_i_c2_fence_west
+[11:20:00] [Server thread/WARN] [Sponge]: Could not find type owning class, assigning fallback id: ic2:block_sheet_type
+[11:20:00] [Server thread/WARN] [Sponge]: Could not find type owning class, assigning fallback id: ic2:block_tex_glass_type
+[11:20:00] [Server thread/WARN] [Sponge]: Could not find type owning class, assigning fallback id: ic2:block_foam_type
+[11:20:00] [Server thread/WARN] [Sponge]: Could not find type owning class, assigning fallback id: ic2:block_wall_type
+[11:20:00] [Server thread/WARN] [Sponge]: Could not find type owning class, assigning fallback id: ic2:block_mining_pipe_type
+[11:20:00] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Found status: OUTDATED Target: 7.99.24
+[11:20:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 328 out of 328 recipes for shaped recipes
+[11:20:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 73 out of 73 recipes for shapeless recipes
+[11:20:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[11:20:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[11:20:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[11:20:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[11:20:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[11:20:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 12 out of 12 recipes for extractor recipes
+[11:20:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 74 out of 74 recipes for macerator recipes
+[11:20:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[11:20:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 9 out of 9 recipes for metal former extruding recipes
+[11:20:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[11:20:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[11:20:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[11:20:01] [Server thread/INFO] [AE2:S]: Pre Initialization ( started )
+[11:20:03] [Server thread/INFO] [AE2:S]: Starting AE2 VersionChecker
+[11:20:03] [Server thread/INFO] [AE2:S]: Pre Initialization ( ended after 1964ms )
+[11:20:04] [Server thread/INFO] [theoneprobe]: The One Probe Detected Baubles: enabling support
+[11:20:04] [Server thread/INFO] [lastsmith]: Started loading config. 
+[11:20:04] [Server thread/INFO] [lastsmith]: Finished loading config. 
+[11:20:04] [AE2 VersionChecker/INFO] [AE2:S]: Newer version is available: rv6-stable-6 (found) > rv6-stable-1 (current)
+[11:20:04] [AE2 VersionChecker/INFO] [AE2:S]: Changelog: Fixes #3880: Incorrect compare with empty itemstack. - yueh
+
+Fixes #3881: Check for minimum required CTM version when installed. - yueh
+[11:20:04] [AE2 VersionChecker/INFO] [AE2:S]: VersionChecker mod is not installed; Proceeding.
+[11:20:04] [AE2 VersionChecker/INFO] [AE2:S]: Stopping AE2 VersionChecker
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.gaean_keystone`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.bamboo_crate`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.umber_furnace`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_of_crafting`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_empty`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_of_healing`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_of_lighting`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_of_repair`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_of_xp`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.glowing_jar`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.bamboo_bridge`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.umber_golem_statue`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.petrified_wood_chest`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.block_of_bones`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.extender_thingy`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.fluid_jar`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.honey_comb`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.silo_tank`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.composter`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.offering_altar`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.smoothie_maker`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.temple_teleporter`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.preserved_block`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.bamboo_pipe`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.bamboo_pipe_extract`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.liquifier`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/INFO] [extrabotany]: Welcome to the World of the supreme principle of Mana
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find color owning class, assigning fallback id: botania:block_mod_flower_color
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_altar_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_livingrock_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_livingwood_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_spreader_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_pool_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_pylon_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find powered owning class, assigning fallback id: botania:block_mana_detector_powered
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find facing owning class, assigning fallback id: botania:block_enchanter_facing
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find pattern owning class, assigning fallback id: botania:block_open_crate_pattern
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_open_crate_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_storage_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_forest_drum_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_platform_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find state owning class, assigning fallback id: botania:block_alf_portal_state
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find facing owning class, assigning fallback id: botania:block_tiny_potato_facing
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_custom_brick_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find facing owning class, assigning fallback id: botania:block_red_string_container_facing
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find has_lens owning class, assigning fallback id: botania:block_prism_has_lens
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find static owning class, assigning fallback id: botania:block_pump_static
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find df_variant owning class, assigning fallback id: botania:block_mod_double_flower1_df_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find df_variant owning class, assigning fallback id: botania:block_mod_double_flower2_df_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_light_relay_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_alt_grass_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_special_quartz_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_biome_stone_a_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find variant owning class, assigning fallback id: botania:block_biome_stone_b_variant
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find color owning class, assigning fallback id: botania:block_pavement_color
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find bswall_variant owning class, assigning fallback id: botania:block_biome_stone_wall_bswall_variant
+[11:20:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `botania` for name `specialflower`, expected `extrabotany`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find active owning class, assigning fallback id: buildcraftcore:block_marker_volume_active
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find type owning class, assigning fallback id: buildcraftcore:block_engine__b_c8_type
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find connected_down owning class, assigning fallback id: buildcraftbuilders:block_frame_connected_down
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find connected_east owning class, assigning fallback id: buildcraftbuilders:block_frame_connected_east
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find connected_north owning class, assigning fallback id: buildcraftbuilders:block_frame_connected_north
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find connected_south owning class, assigning fallback id: buildcraftbuilders:block_frame_connected_south
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find connected_up owning class, assigning fallback id: buildcraftbuilders:block_frame_connected_up
+[11:20:05] [Server thread/WARN] [Sponge]: Could not find connected_west owning class, assigning fallback id: buildcraftbuilders:block_frame_connected_west
+[11:20:05] [Server thread/INFO] [FML]: Applying holder lookups
+[11:20:05] [Server thread/INFO] [FML]: Holder lookups applied
+[11:20:06] [Server thread/INFO] [FML]: Applying holder lookups
+[11:20:06] [Server thread/INFO] [FML]: Holder lookups applied
+[11:20:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `sponge` for name `human`, expected `spongeforge`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:06] [Server thread/INFO] [FML]: Applying holder lookups
+[11:20:06] [Server thread/INFO] [FML]: Holder lookups applied
+[11:20:06] [Server thread/INFO] [FML]: Applying holder lookups
+[11:20:06] [Server thread/INFO] [FML]: Holder lookups applied
+[11:20:06] [Server thread/INFO] [FML]: Injecting itemstacks
+[11:20:06] [Server thread/INFO] [FML]: Itemstack injection complete
+[11:20:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[11:20:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[11:20:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[11:20:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[11:20:06] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[11:20:07] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xic2.dust@8 = 1xitem.ingotIron@0
+[11:20:07] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xic2.dust@7 = 1xitem.ingotGold@0
+[11:20:07] [Server thread/INFO] [FML]: Applying holder lookups
+[11:20:07] [Server thread/INFO] [FML]: Holder lookups applied
+[11:20:08] [Server thread/INFO] [mca]: MCA has successfully loaded 259 skins.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tiletombstone`, expected `mca`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilememorial`, expected `mca`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/INFO] [torcherino]: class com.sci.torcherino.blocks.tiles.TileTorcherino
+[11:20:08] [Server thread/INFO] [AE2:S]: Initialization ( started )
+[11:20:08] [Server thread/INFO] [AE2:S]: Disabling item.csv export for custom recipes, since creative tab information is only available on the client.
+[11:20:08] [Server thread/INFO] [AE2:S]: Initialization ( ended after 104ms )
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `flammpfeil.slashblade.named.yamazakura.minazuki`, expected `flammpfeil.slashblade`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `flammpfeil.slashblade.named.yamazakura.fumizuki`, expected `flammpfeil.slashblade`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `flammpfeil.slashblade.named.yamazakura.katura`, expected `flammpfeil.slashblade`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `flammpfeil.slashblade.named.yamazakura.tuki`, expected `flammpfeil.slashblade`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `flammpfeil.slashblade.named.smith_3`, expected `flammpfeil.slashblade`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `flammpfeil.slashblade.named.smith_last`, expected `flammpfeil.slashblade`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 iron furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 gold furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 diamond furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 obsidian furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 netherrack furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 copper furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 silver furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `flammpfeil.slashblade` for name `recipexes`, expected `lastsmith`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `flammpfeil.slashblade` for name `bamboolight`, expected `lastsmith`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `flammpfeil.slashblade` for name `white`, expected `lastsmith`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `flammpfeil.slashblade` for name `white2`, expected `lastsmith`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `flammpfeil.slashblade` for name `white3`, expected `lastsmith`. This could be a intended override, but in most cases indicates a broken mod.
+[11:20:09] [Server thread/INFO] [FML]: Injecting itemstacks
+[11:20:09] [Server thread/INFO] [FML]: Itemstack injection complete
+[11:20:09] [Server thread/WARN] [FML]: No types have been added to Biome appliedenergistics2:storage_biome, types have been assigned on a best-effort guess: [COLD, PLAINS]
+[11:20:10] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[11:20:10] [Server thread/INFO] [ic2.General]: ic2 version 2.8.109-ex112 loaded.
+[11:20:10] [Server thread/INFO] [AE2:S]: Post Initialization ( started )
+[11:20:10] [Server thread/INFO] [AE2:S]: Industrial Craft 2 - Integration Enable
+[11:20:10] [Server thread/INFO] [AE2:S]: Railcraft - Integration Disabled
+[11:20:10] [Server thread/INFO] [AE2:S]: Mine Factory Reloaded - Integration Disabled
+[11:20:10] [Server thread/INFO] [AE2:S]: Waila - Integration Disabled
+[11:20:10] [Server thread/INFO] [AE2:S]: Mekanism - Integration Disabled
+[11:20:10] [Server thread/INFO] [AE2:S]: OpenComputers - Integration Disabled
+[11:20:10] [Server thread/INFO] [AE2:S]: TheOneProbe - Integration Enable
+[11:20:10] [Server thread/INFO] [AE2:S]: Tesla - Integration Disabled
+[11:20:10] [Server thread/INFO] [AE2:S]: CraftTweaker - Integration Disabled
+[11:20:10] [Server thread/INFO] [AE2:S]: Post Initialization ( ended after 248ms )
+[11:20:10] [Server thread/INFO] [botania]: The Lexica Botania has 28502 words.
+[11:20:10] [Server thread/INFO] [extrabotany]: o****************ooooooooooooooo$$$$$$$$$&&&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&&&&&&&&&&&&&&ooooooooo
+[11:20:10] [Server thread/INFO] [extrabotany]: ****$$**************ooooooooo!$$$$$$$$$$$$&$$$$$$$$$$$&$$$$$$$$$$$$$$$$$$$$$$$$&&&&&&&&&&&*ooooooooo
+[11:20:10] [Server thread/INFO] [extrabotany]: *$****$$***************ooooo$$$$$$$$$$$$$&&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&&&&&&&&&oooooooooo
+[11:20:10] [Server thread/INFO] [extrabotany]: o*$*oo*******************o$$$$$$$$$$$$$$$&$$$$$$$$$$$$$&$$$$$$$$$$$$$$$$$$$$$$$$$$&&&&&&&&oooooooooo
+[11:20:10] [Server thread/INFO] [extrabotany]: oo$*$oo*****************$$$$$$$$$$$$$$$$$&$$$$$$$$$$$$$$&$$$$$$$$$$$$$$$$$$$$$$$$$$&&&&&&&!ooooooooo
+[11:20:10] [Server thread/INFO] [extrabotany]: ooo**$****o*o**********$$$$$$$!$$$$$$$$$$&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&&&&&&oooooooooo
+[11:20:10] [Server thread/INFO] [extrabotany]: !ooo**$oooo*ooo*******$$$$$$$$$$$o!$$$$$$$$$$$$$$$$$o$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&&&&$oooooooooo
+[11:20:10] [Server thread/INFO] [extrabotany]: !oooo****ooooo**oo***$$$$$$$$$$$$$$$$$$o!$$$$$$$$$$$o;*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&&&$o!oooooooo
+[11:20:10] [Server thread/INFO] [extrabotany]: !ooooo****oooooooooo$$$$$$$$$$$$$$$$$$!;;$$$$$$$$$$$;;;!$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&&&o!!!oooo!oo
+[11:20:10] [Server thread/INFO] [extrabotany]: !!oooooo*!!o**oooo$$$$$$$$o$$$$$$$$$o;;;;$$$$$$$$$$$;;;!**$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&&!o!!!!!!!!!
+[11:20:10] [Server thread/INFO] [extrabotany]: !!ooooooo****oo$$$$$$$$$$$$$!o$$$$o;;;;*o$$$$$$$$$$$oo;;;;;$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&!!!!!!!!!!!
+[11:20:10] [Server thread/INFO] [extrabotany]: !!ooooo*$$$$$$$$*$$$$$$$$$$$$$$!$;;;;;;;;!$$$$$$$$$$;;;;;;;;!$$$$$$$$$$$$$$$$$$$$$$$$$$$&!!!!!!!!!!!
+[11:20:10] [Server thread/INFO] [extrabotany]: !!ooo!ooo*;;;!!o$$$$$$$$$$$$$$$$;;;;;;;;;;$$$$$$$$$$;;;o!;!o!;!$$$$$$$$$$$$$$$$$$$$$$$$$$*!!!!!!!!!!
+[11:20:10] [Server thread/INFO] [extrabotany]: ;!!!!oooo*;..;;!$$$$$$$$$$$$$$$;;;;$&$;;;;;$$;o$$$$$;;;;888888$;o$$$$$$$$$$$$$$$$$$$$$$$$$$!!!!oo!!!
+[11:20:10] [Server thread/INFO] [extrabotany]: ....;!!!oo;...o$$$$$$$$$$$$$$$;;*88$o$8**;;!$;;;$$$$;;!$!&8&!!$8$;$$$$$$$$&$$$$$$$$$$$$$$!!*$!!o*!!!
+[11:20:10] [Server thread/INFO] [extrabotany]: ........;o;..;*$$$$$$$$$$$$$$;;&8!!*8$.&!;;;o!;;;!$$o;;;8&8..$!!8&;$$$$$$$$$$$$$$$$$$$$$$!!!!!!$*!!!
+[11:20:10] [Server thread/INFO] [extrabotany]: .........o;...o$$$$$$$$$$$$$$;$8!;&8o8.**;;;;;;;;;;*$;;8888888$;!8$o$$$$$$$$$$$$$$$$$$$$$$!!!!ooo!!!
+[11:20:10] [Server thread/INFO] [extrabotany]: .........o!;;.!$$$$$$$$$$$$$o;&8.;88&888&;;;;;;;;;;;;!o8&88888&.;8$;$$$$$$$$$$$$$$$$$$$$$$o!!!!o*!!!
+[11:20:10] [Server thread/INFO] [extrabotany]: .........o!;;.!$$$$$$$$$$$&$;;;&.!8&$$&&$;;;;;;;;;;;;;!o.**$&8;.*!;;$$$$$$$$$$$$$$$$$$$$$$;!ooo*$o*o
+[11:20:10] [Server thread/INFO] [extrabotany]: .........!;...!$$$$$$$$$$$&$;;;;..&;**$$;;;;;;;;;;;;;;;$&$$&8..;;;;$$$$$$$$$$$$$$$$$$$$$$$$;!!!o*!!!
+[11:20:10] [Server thread/INFO] [extrabotany]: .........!;...$$$$$$$$$$$$&&!;;;;;;!*!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;$$$$$$$$$$$$*&$&$$$$$$$$;!!!!*!!!
+[11:20:10] [Server thread/INFO] [extrabotany]: *o!;.....!!...$$$$$$$$$$$$&&$;;;;;!;!;;;;;;;;!!;;;;;;;;;;;;;;;;;;;$$$$$$$$$$$$$;$&$$$$$$$$$$!!;!*!;!
+[11:20:10] [Server thread/INFO] [extrabotany]: $*$$$$*o;!;...$$$$$$$$$$$$$&&;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;o$$$$$$$$$$$$$;&$$$$$$$$$$$!;;!*;;;
+[11:20:10] [Server thread/INFO] [extrabotany]: $oooooooo*;.;$$$$$$$$$$$$$$&&;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;$$$$$$$$$$$$*;o$$$$$$$$$$$$$;;!*;;;
+[11:20:10] [Server thread/INFO] [extrabotany]: *oooooo*$$$$$$$$$$$$$$$$$$$&$;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;$$$$$$$$$$$$$;$$$$$$$$$$$$$$o$!;*;;;
+[11:20:10] [Server thread/INFO] [extrabotany]: *;;;!$$$$$$$$$&$$$$$$$$$$$$$$;;;;;;;;;;;;;;;;o.;;;;;;;;;;;;;;;;$$$$$$$$$$$$$$$$$$$$$&$$$$$$$!;;$o;;;
+[11:20:10] [Server thread/INFO] [extrabotany]: *....$&$$$$$$$$$$$$$$$$$$$$$$*;;;;;;;;o;;;;;;$$*;;;;;;;;;;;;;;$$$$$$&$$$$$$$$$$$$$&&$$$$$$$$;;;;*!;;
+[11:20:10] [Server thread/INFO] [extrabotany]: *....$$$$$$$$$$$$$$$$$$$$$$$$$$;;;;;;;;;;;;;;$***;;;;;;;;;;;;$$$$$$!!!!!!!!!!!!!!!!*$$$$*$$;;;;;*!..
+[11:20:10] [Server thread/INFO] [extrabotany]: *....o$$$$$$$$$$&$$$$$$*!!!!!*$$$;;;;;;;;;;;;****;;;;;;;;;;$o!!!!!!!!!!!!!!!!!!!!!!!!oooo$o!;..;*!..
+[11:20:10] [Server thread/INFO] [extrabotany]: *.....$$$$$$$$$$$$$$$$!!!!!!!!!!!*$*;;;;;;;;;;;;;;;;;;;*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!o!$oooo!;;*;..
+[11:20:10] [Server thread/INFO] [extrabotany]: o.....$&$$$$$$$$$$$$o!!!!!!!!!!!!!!!*!!!!!!o*!;;;;;*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*o!;;;..;o!..
+[11:20:10] [Server thread/INFO] [extrabotany]: o.....!$$$$$$$$$$$$$!!!!!!!!!!!!!!!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*!*o;;*****o;.
+[11:20:10] [Server thread/INFO] [extrabotany]: o...;!!$&$$$$$$$$$$!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!oooo*ooo;;**o;o*o;
+[11:20:10] [Server thread/INFO] [extrabotany]: o...;o*$$$$$$$!!!!!!o!!!!!!!!!!!!!!!!!!!!!o!!!!!!!!!!!!!!!!!!!!!!!!!!o*o!!!!!!!!!!!!!!!!!!!!o*;;***o
+[11:20:10] [Server thread/INFO] [extrabotany]: o..!***$$&$$$!!!!!!!!!o!!!!!!!!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!*o!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**oo*
+[11:20:10] [Server thread/INFO] [extrabotany]: o...;.!$*$$$$!!!!!!!!!!!!o!!!!!!!!!!!!!!!!!!!!**$o!!!!;!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!o!o
+[11:20:10] [Server thread/INFO] [extrabotany]: o.....;*$$&$$!!!!!!!!!!!!!!!!o!!!!!!!!!!!!!!!!!ooooooo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!o!!
+[11:20:10] [Server thread/INFO] [extrabotany]: *;;.;o$$$$$&$!!!!!!!!!!!!!!!!!!!$!!!!!!!!!!!!!!!!$oooo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$o!!
+[11:20:10] [Server thread/INFO] [extrabotany]: $**$*!*$$$$$$!!!!!!!!!!!!!!!!!!!!o*$!!!!!!!!!!!!!!!*ooooo!!!!!!!!!!!!!!!!!!!!!!!!!!o**$*!!!!!!!$$***
+[11:20:10] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 39 mods
+[11:20:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[11:20:10] [Server thread/INFO] [Sponge]: Checking for worlds that need to be migrated...
+[11:20:10] [Server thread/INFO] [Sponge]: No worlds were found in need of migration.
+[11:20:10] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[11:20:11] [Server thread/INFO] [FML]: Applying holder lookups
+[11:20:11] [Server thread/INFO] [FML]: Holder lookups applied
+[11:20:12] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 735 advancements
+[11:20:12] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 16 advancement trees
+[11:20:12] [Server thread/INFO] [twilightforest]: Loaded a world with the tfEnforcedProgression game rule not defined.  Defining it.
+[11:20:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0 (world)
+[11:20:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 44%
+[11:20:13] [Server thread/INFO] [Sponge]: Loading world [world] (minecraft:overworld/0)
+[11:20:14] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 735 advancements
+[11:20:14] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 16 advancement trees
+[11:20:14] [Server thread/INFO] [twilightforest]: Loaded a world with the tfEnforcedProgression game rule not defined.  Defining it.
+[11:20:14] [Server thread/INFO] [Sponge]: Loading world [DIM-1] (minecraft:nether/-1)
+[11:20:14] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 735 advancements
+[11:20:14] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 16 advancement trees
+[11:20:14] [Server thread/INFO] [twilightforest]: Loaded a world with the tfEnforcedProgression game rule not defined.  Defining it.
+[11:20:14] [Server thread/INFO] [Sponge]: Loading world [DIM1] (minecraft:the_end/1)
+[11:20:14] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 735 advancements
+[11:20:14] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 16 advancement trees
+[11:20:14] [Server thread/INFO] [twilightforest]: Loaded a world with the tfEnforcedProgression game rule not defined.  Defining it.
+[11:20:14] [Server thread/INFO] [Sponge]: Loading world [DIM2] (appliedenergistics2:storage_cell/2)
+[11:20:15] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 735 advancements
+[11:20:15] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 16 advancement trees
+[11:20:15] [Server thread/INFO] [twilightforest]: Loaded a world with the tfEnforcedProgression game rule not defined.  Defining it.
+[11:20:15] [Server thread/INFO] [Sponge]: Loading world [DIM7] (twilightforest:twilight_forest/7)
+[11:20:15] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 735 advancements
+[11:20:15] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 16 advancement trees
+[11:20:15] [Server thread/INFO] [twilightforest]: Loaded a world with the tfEnforcedProgression game rule not defined.  Defining it.
+[11:20:15] [Server thread/INFO] [Sponge]: Loading world [DIM66] (erebus:erebus/66)
+[11:20:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (4.792s)! For help, type "help" or "?"
+[11:20:15] [Server thread/INFO] [journeymap]: global (FirstLoaded) Setting config file to version "5.5.4": journeymap.server.global.config
+[11:20:15] [Server thread/INFO] [journeymap]: global (Valid) Creating config file: .\journeymap\server\5.5\journeymap.server.global.config
+[11:20:15] [Server thread/INFO] [journeymap]: dim0 (Initialized) Setting config file to version "5.5.4": journeymap.server.dim0.config
+[11:20:15] [Server thread/INFO] [journeymap]: dim0 (Valid) Creating config file: .\journeymap\server\5.5\journeymap.server.dim0.config
+[11:20:15] [Server thread/INFO] [journeymap]: dim-1 (Initialized) Setting config file to version "5.5.4": journeymap.server.dim-1.config
+[11:20:15] [Server thread/INFO] [journeymap]: dim-1 (Valid) Creating config file: .\journeymap\server\5.5\journeymap.server.dim-1.config
+[11:20:15] [Server thread/INFO] [journeymap]: dim1 (Initialized) Setting config file to version "5.5.4": journeymap.server.dim1.config
+[11:20:15] [Server thread/INFO] [journeymap]: dim1 (Valid) Creating config file: .\journeymap\server\5.5\journeymap.server.dim1.config
+[11:20:15] [Server thread/INFO] [journeymap]: dim2 (Initialized) Setting config file to version "5.5.4": journeymap.server.dim2.config
+[11:20:15] [Server thread/INFO] [journeymap]: dim2 (Valid) Creating config file: .\journeymap\server\5.5\journeymap.server.dim2.config
+[11:20:15] [Server thread/INFO] [journeymap]: dim7 (Initialized) Setting config file to version "5.5.4": journeymap.server.dim7.config
+[11:20:15] [Server thread/INFO] [journeymap]: dim7 (Valid) Creating config file: .\journeymap\server\5.5\journeymap.server.dim7.config
+[11:20:15] [Server thread/INFO] [journeymap]: dim66 (Initialized) Setting config file to version "5.5.4": journeymap.server.dim66.config
+[11:20:15] [Server thread/INFO] [journeymap]: dim66 (Valid) Creating config file: .\journeymap\server\5.5\journeymap.server.dim66.config
+[11:20:16] [Server thread/WARN] [Sponge]: No entity type is registered for class twilightforest.entity.boss.EntityTFNagaSegment
+[11:20:16] [Server thread/WARN] [Sponge]: No entity type is registered for class twilightforest.entity.boss.EntityTFHydraNeck
+[11:20:16] [Server thread/WARN] [Sponge]: No entity type is registered for class twilightforest.entity.EntityTFSpikeBlock
+[11:20:16] [Server thread/WARN] [Sponge]: No entity type is registered for class twilightforest.entity.EntityTFGoblinChain
+[11:20:16] [Server thread/WARN] [Sponge]: No entity type is registered for class twilightforest.entity.boss.EntityTFSnowQueenIceShield
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.entity.VillagerAttributes
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.passive.EntityVillager from class mca.core.Constants
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.actions.ActionSleep
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.actions.ActionSleep
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.actions.ActionSleep
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.actions.ActionFollow
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.actions.ActionProcreate
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.actions.ActionUpdateMood
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.actions.AbstractToggleAction
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.actions.AbstractToggleAction
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.actions.ActionCombat
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.actions.ActionCombat
+[11:20:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mca.entity.EntityVillagerMCA from class mca.actions.ActionCombat
+[11:20:17] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+[11:20:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] hello
+[11:20:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[11:20:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[11:20:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[11:20:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[11:20:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[11:20:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM-1'/the_nether
+[11:20:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM1'/the_end
+[11:20:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM2'/Storage Cell
+[11:20:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM7'/twilight_forest
+[11:20:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM66'/EREBUS
+[11:20:45] [Server thread/INFO] [Sponge]: Unloading world [world] (minecraft:overworld/0)
+[11:20:46] [Server thread/INFO] [Sponge]: Unloading world [DIM-1] (minecraft:nether/-1)
+[11:20:46] [Server thread/INFO] [Sponge]: Unloading world [DIM1] (minecraft:the_end/1)
+[11:20:46] [Server thread/INFO] [Sponge]: Unloading world [DIM2] (appliedenergistics2:storage_cell/2)
+[11:20:46] [Server thread/INFO] [Sponge]: Unloading world [DIM7] (twilightforest:twilight_forest/7)
+[11:20:46] [Server thread/INFO] [Sponge]: Unloading world [DIM66] (erebus:erebus/66)
